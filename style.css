@@ -1,5 +1,5 @@
-.ex1{
-    color:red;
+ex1{
+    color:white;
     
     
 }
@@ -7,8 +7,9 @@
 text-align:center ;
 }
 body{
-   background-color: blue;
+    background-image:url("https://imgur.com/ULCaFQw.jpg");
     font-family: 'Marcellus', serif;
+    background-repeat:no-repeat;
     
 }
 .ex3{
